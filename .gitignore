@@ -1,5 +1,1 @@
 # So we dont import binaries
-/*
-!.gitignore
-!*.go
-!README.md
